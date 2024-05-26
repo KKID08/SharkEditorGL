@@ -62,7 +62,7 @@ cd ..
 # Get glfw
 # Requires libwayland-dev and pkg-config and libxkbcommon-dev
 echo "------------ WARNING ------------"
-echo "GLFW requires libwayland-dev, pkg-config, libxkbcommon-dev, libglu1-mesa-dev (Debian-Based Package-Names)"
+echo "GLFW requires libwayland-dev, pkg-config, libxkbcommon-dev, libglu1-mesa-dev, libxrandr-dev, libxinerama-dev, libxcursor-dev, libxi-dev (Debian-Based Package-Names)"
 echo "Check if you have these installed on your system before pressing Enter..."
 read -n 1 -p "------------ WARNING ------------"
 
